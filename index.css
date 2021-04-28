@@ -1,0 +1,67 @@
+body
+{
+    
+    background-color:black;
+    margin: 0 auto;
+    background-size: cover;
+}
+button
+{
+  background-color: darkgoldenrod;
+  color:black;
+  border:solid red;
+  border-radius: 5px;
+
+  
+
+}
+h6
+{
+   
+    color: white;
+   
+    font-style:bold;
+    font-size: medium;
+    
+    
+}
+a
+{
+    color:white;
+    max-width: 200px;     
+    padding: 1em;
+    
+     text-decoration: none;
+    
+}
+
+.info
+{
+    text-align: center;
+    color: white;
+    position: relative;
+   top: 100px;
+    
+   
+}
+#right
+{
+    
+    float: right;
+    padding-top: 250px;
+    display: flex;
+    position: absolute;
+    display: block;
+}
+.bottom-nav
+{
+    padding: 200px;
+    padding-right: 30px;
+    padding-top: 30;
+    margin-top: 100px;
+    position: relative;
+    top: 700px;
+
+    
+
+    }   
